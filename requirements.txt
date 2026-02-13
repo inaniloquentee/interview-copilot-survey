@@ -1,0 +1,9 @@
+streamlit
+qianfan
+paddlepaddle
+paddleocr
+pymilvus
+pandas
+python-dotenv
+numpy
+opencv-python
